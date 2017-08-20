@@ -13,8 +13,8 @@ namespace OOPGame
     {
         private bool isFirst = false;
 
-        private int x = 80, y = 80;
-        private int lastX = 80, lastY = 80;
+        private int x = 320, y = 320;
+        private int lastX = 320, lastY = 320;
 
         private SnakeChainVector vector = SnakeChainVector.Right;
         private SnakeChainVector lastVector = SnakeChainVector.Right;
